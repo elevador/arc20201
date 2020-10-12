@@ -8,7 +8,6 @@ Accept: application/json
 {
     "medida": "Jogos",
     "marcadores": [
-        {"url":"https://elderscrolls.bethesda.net/pt/article/4QPa7rxazSmRV4xb9yJ1D7/blades-town-hall-update-1-9"},
         {"local": "arena"},
         {"título": "blades-town-hall"}
     ],
